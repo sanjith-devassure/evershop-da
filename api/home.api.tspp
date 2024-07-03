@@ -1,0 +1,52 @@
+>>summary: pgeseghfsfws
+
+
+
+#sgasdwgsdededdwvesv
+^^hello(arg1:text, arg2:text)
+{
+    "method": "GET",
+    "baseUrl": "https://google.com",
+    "path": "${arg1}",
+    "request": {
+        "body": {
+            "type": "json",
+            "data": "{\n\"name\": \"hekhjjhhgfghflldo\"\n}"
+        },
+        "queryParams": [
+            {
+                "name": "auth",
+                "value": "::arg2::",
+                "type": "text"
+            }
+        ],
+        "auth": {
+            "authType": "Saved Auth",
+            "file": "ds.auth.tspp"
+        },
+        "headers": []
+    }
+}
+^^
+
+#wgewhwh
+^^jfe()
+{
+    "method": "GET",
+    "baseUrl": "https://google.com",
+    "path": "egwewe",
+    "request": {
+        "auth": {
+            "authType": "None"
+        }
+    }
+}
+^^
+
+^^afewgfg()
+{
+    "method": "GET",
+    "baseUrl": "https://yahoo.com",
+    "path": ""
+}
+^^

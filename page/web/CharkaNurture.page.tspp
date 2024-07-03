@@ -1,0 +1,19 @@
+>>summary: srtd
+>>recorderName: CharkaNurture
+
+==SHOPKIDS;CSS;[href='\/kids'];Section;[CSS:div:nth-child(1) > a:nth-child(4)];[SHOPKIDS];[CharkaNurture];==
+
+
+#this is a function
+^^foo(arg1:text, arg2:text) -> json
+	--Open URL-- [[http://google.com]] 
+	::pageUrl_2 = --Get page URL-- 
+	--return-- [[]] 
+
+^^
+
+^^bar(name:text, dob:text)
+	--Go back-- 
+	#dwgwg 
+
+^^
